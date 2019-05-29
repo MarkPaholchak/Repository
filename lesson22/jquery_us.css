@@ -1,0 +1,18 @@
+form {
+    margin: 0 auto;
+    display: block;
+    width: 40%;
+    margin-top: 100px;
+}
+input {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+span {
+    margin: 0 auto;
+    width: 190px;
+    display: block;
+    margin-bottom: 10px;
+}
