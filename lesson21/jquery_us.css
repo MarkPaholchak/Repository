@@ -1,0 +1,12 @@
+#dragable {
+    width: 150px;
+    height: 150px;
+    background-color: darkgray;
+    border: 5px solid gray;
+}
+#droppable {
+    width: 250px;
+    height: 250px;
+    background-color: coral;
+    border: 5px solid red;
+}
