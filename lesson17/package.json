@@ -1,0 +1,19 @@
+{
+  "name": "miniserv",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.16.4",
+    "npm": "6.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "nothing imposible",
+  "main": "methotds.js",
+  "devDependencies": {},
+  "keywords": [
+    "mini"
+  ],
+  "author": "Mark",
+  "license": "ISC"
+}
